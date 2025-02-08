@@ -7,3 +7,6 @@ After being built the first two or three versions, I realized that this was an a
 
 # Some things you should know:
 This isn't perfect. I don't expect my code to be refined to the fullest or to be perfect. This is the first ever time I'm touching HTML, CSS, and JavaScript in about 5 - 6 years. But, I hope that you enjoy this regardless. And please, don't hesitate to send me things to change or improve, or to even point out a bug or mistake in my code!
+
+# Please note
+I have not kept the previous versions stored, but you can find all previous version updates and changes by clicking on the left button with an arrow, then going into changelog.
