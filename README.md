@@ -9,4 +9,7 @@ After being built the first two or three versions, I realized that this was an a
 This isn't perfect. I don't expect my code to be refined to the fullest or to be perfect. This is the first ever time I'm touching HTML, CSS, and JavaScript in about 5 - 6 years. But, I hope that you enjoy this regardless. And please, don't hesitate to send me things to change or improve, or to even point out a bug or mistake in my code!
 
 # Please note
-I have not kept the previous versions stored, but you can find all previous version updates and changes by clicking on the left button with an arrow, then going into changelog.
+I have not kept the previous versions stored, but you can find all previous version updates and changes by clicking on the left button with an arrow, then going into the changelog.
+
+# To download the latest version
+To download the latest version, or, any version released, please find the latest release with the latest tag (for example, v1.6 is more recent than v1.5.8). Download all HTML, CSS, and JavaScript files for that release, and then open up the HTML file in your file manager to launch it in your browser.
